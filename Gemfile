@@ -34,5 +34,5 @@ group :test do
   # Pretty printed test output
   gem 'turn', '0.8.2', :require => false
   gem 'webrat', '0.7.3'
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3', '1.6.7'
 end
