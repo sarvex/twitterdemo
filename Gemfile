@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '7.0.7.2'
-gem 'pg', '0.12.2'
+gem 'pg', '1.5.6'
 gem 'ruby-hmac', '0.4.0'
 
 # Gems used only for assets and not required
