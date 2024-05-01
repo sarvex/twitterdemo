@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '7.0.7.2'
+gem 'rails', '7.0.8.1'
 gem 'pg', '0.12.2'
 gem 'ruby-hmac', '0.4.0'
 
